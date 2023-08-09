@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "Meet",
+    "description": "Chrome extension for video meeting",
+    "action": {
+        "default_popup": "js/index.html",
+        "default_title": "Meet"
+    }
+}
